@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "root1",
   "private": true,
   "devDependencies": {
     "lerna": "^3.22.1"
